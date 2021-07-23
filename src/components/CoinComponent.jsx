@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import fetchcoins from '../utils/fetchcoins'
+import React from 'react';
 
 const CoinComponent = ({name, usd, nok}) => {
 
